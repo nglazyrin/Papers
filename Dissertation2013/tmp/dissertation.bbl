@@ -1,0 +1,545 @@
+\begin{thebibliography}{10}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\long\def\BibAnnote#1{(#1)}\else\fi
+\ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{Schueler2005}
+\selectlanguageifdefined{russian}
+Sch\"uler~Nico. Reflections on the history of computer-assisted music analysis
+  I: predecessors and the beginnings.~// Muzikoloski zbornik.
+\newblock 2005.
+\newblock Т.~41.
+\newblock {С.}~31--43. URL:  http://uweb.txstate.edu/~ns13/Schuler-CAMA-I.pdf.
+
+\bibitem{Freedman1967}
+\selectlanguageifdefined{russian}
+Freedman~M.~David. Analysis of Musical Instrument Tones~// The Journal of the
+  Acoustical Society of America.
+\newblock 1967.
+\newblock Т.~41, {№}~4A.
+\newblock {С.}~793--806. URL:  http://link.aip.org/link/?JAS/41/793/1.
+
+\bibitem{Moorer1975}
+\selectlanguageifdefined{russian}
+Moorer~James~A.
+\newblock On the Segmentation and Analysis of Continuous Musical Sound by
+  Digital Computer: Master's thesis: Stanford University.
+\newblock Stanford, CA, 1975. URL:
+  https://ccrma.stanford.edu/files/papers/stanm3.pdf.
+
+\bibitem{Martin1996}
+\selectlanguageifdefined{russian}
+Martin~Keith~D. Automatic Transcription of Simple Polyphonic Music: Robust
+  Front End Processing.
+\newblock 1996.
+
+\bibitem{Fujishima1999}
+\selectlanguageifdefined{russian}
+Fujishima~Takuya. Realtime Chord Recognition of Musical Sound: a System Using
+  Common Lisp Music~// Proc. ICMC, 1999.
+\newblock 1999.
+\newblock {С.}~464--467. URL:  http://ci.nii.ac.jp/naid/10013545881/en/.
+
+\bibitem{Aono1998}
+\selectlanguageifdefined{russian}
+Aono~Y., Katayose~H., Inokuchi~S. {A Real-time Session Composer with Acoustic
+  Polyphonic Instruments}~// Proceedings of ICMC 1998.
+\newblock 1998.
+\newblock {С.}~236--239.
+
+\bibitem{bib1}
+\selectlanguageifdefined{russian}
+Название статьи~/ ~Автор1, ~Автор2, ~Автор3
+  {[и~др.]}~// Журнал.
+\newblock 2012.
+\newblock Т.~1.
+\newblock {с.}~100.
+
+\bibitem{bib3}
+\selectlanguageifdefined{russian}
+Автор. название тезисов конференции~//
+  Название сборника.
+\newblock 2012.
+
+\bibitem{bib4}
+\selectlanguageifdefined{russian}
+Название буклета.
+
+\bibitem{bib5}
+\selectlanguageifdefined{english}
+``This is english article''~/ ~Author1, ~Author2, ~Author3 et~al.~// Journal.
+\newblock 2012.
+\newblock Vol.~2.
+\newblock p.~200.
+
+\bibitem{Sposobin2012}
+\selectlanguageifdefined{russian}
+Способин~И.~В. Элементарная теория музыки~/
+  {под ред. }В.~Григоренко.
+\newblock Москва "КИФАРА", 2012.
+
+\bibitem{Lerch2012}
+\selectlanguageifdefined{russian}
+Lerch~Alexander. Audio content analysis: an introduction.
+\newblock John Wiley \& Sons, Inc., Hoboken, New Jersey, 2012.
+
+\bibitem{Fastl2007}
+\selectlanguageifdefined{russian}
+Hugo~Fastl~Eberhard~Zwicker. Psychoacoustics - Facts and Models~/ {под
+  ред. }Manfred R.~Schroeder~Thomas S.~Huang, Teuvo~Kohonen.
+\newblock Springer-Verlag Berlin Heidelberg, 2007.
+
+\bibitem{Levitin2006}
+\selectlanguageifdefined{russian}
+Levitin~Daniel~J. This is Your Brain on Music: Understanding a Human Obsession.
+\newblock Atlantic Books Ltd., 2006.
+
+\bibitem{Sheh2003}
+\selectlanguageifdefined{russian}
+Sheh~Alexander, Ellis~Daniel P.~W. Chord segmentation and recognition using
+  EM-trained hidden markov models.~// ISMIR.
+\newblock 2003.
+
+\bibitem{Bello2005}
+\selectlanguageifdefined{russian}
+Bello~Juan~Pablo, Pickens~Jeremy. A Robust Mid-Level Representation for
+  Harmonic Content in Music Signals~// Proceedings of the 6th International
+  Conference on Music Information Retrieval.
+\newblock London, UK: 2005.  September 11-15.
+\newblock {С.}~304--311.
+\newblock \url{http://ismir2005.ismir.net/proceedings/1038.pdf}.
+
+\bibitem{Lee2006}
+\selectlanguageifdefined{russian}
+Lee~K. {Automatic chord recognition from audio using enhanced pitch class
+  profile}~// ICMC Proceedings.
+\newblock 2006.
+
+\bibitem{Burgoyne2007}
+\selectlanguageifdefined{russian}
+A Cross-Validated Study of Modelling Strategies for Automatic Chord Recognition
+  in Audio~/ John~Ashley~Burgoyne, Laurent~Pugin, Corey~Kereliuk
+  {[и~др.]}~// Proceedings of the 8th International Conference on Music
+  Information Retrieval.
+\newblock Vienna, Austria: 2007.  September 23-27.
+\newblock {С.}~251--254.
+\newblock
+  \url{http://ismir2007.ismir.net/proceedings/ISMIR2007_p251_burgoyne.pdf}.
+
+\bibitem{Lee2007}
+\selectlanguageifdefined{russian}
+Lee~Kyogu, Slaney~Malcolm. A Unified System for Chord Transcription and Key
+  Extraction Using Hidden Markov Models~// Proceedings of the 8th International
+  Conference on Music Information Retrieval.
+\newblock Vienna, Austria: 2007.  September 23-27.
+\newblock {С.}~245--250.
+\newblock \url{http://ismir2007.ismir.net/proceedings/ISMIR2007_p245_lee.pdf}.
+
+\bibitem{Papadopoulos2007}
+\selectlanguageifdefined{russian}
+Papadopoulos~H{\'e}l{\`e}ne, Peeters~Geoffroy. Large-Scale Study of Chord
+  Estimation Algorithms Based on Chroma Representation and HMM~// CBMI~/
+  {под ред. }Jenny~Benois-Pineau.
+\newblock IEEE, 2007.
+\newblock {С.}~53--60.
+
+\bibitem{Mauch2008}
+\selectlanguageifdefined{russian}
+Mauch~Matthias, Dixon~Simon. A Discrete Mixture Model for Chord Labelling~//
+  Proceedings of the 9th International Conference on Music Information
+  Retrieval.
+\newblock Philadelphia, USA: 2008.  September 14-18.
+\newblock {С.}~45--50.
+\newblock \url{http://ismir2008.ismir.net/papers/ISMIR2008_214.pdf}.
+
+\bibitem{Khadkevich2009}
+\selectlanguageifdefined{russian}
+Khadkevich~Maksim, Omologo~Maurizio. Use of Hidden Markov Models and Factored
+  Language Models for Automatic Chord Recognition~// Proceedings of the 10th
+  International Society for Music Information Retrieval Conference.
+\newblock Kobe, Japan: 2009.  October 26-30.
+\newblock {С.}~561--566.
+\newblock \url{http://ismir2009.ismir.net/proceedings/OS7-4.pdf}.
+
+\bibitem{Mauch2009}
+\selectlanguageifdefined{russian}
+Mauch~Matthias, Noland~Katy, Dixon~Simon. Using Musical Structure to Enhance
+  Automatic Chord Transcription~// Proceedings of the 10th International
+  Society for Music Information Retrieval Conference.
+\newblock Kobe, Japan: 2009.  October 26-30.
+\newblock {С.}~231--236.
+\newblock \url{http://ismir2009.ismir.net/proceedings/PS2-7.pdf}.
+
+\bibitem{Oudre2009}
+\selectlanguageifdefined{russian}
+Oudre~Laurent, Grenier~Yves, Févotte~Cédric. Template-Based Chord Recognition
+  : Influence of the Chord Types~// Proceedings of the 10th International
+  Society for Music Information Retrieval Conference.
+\newblock Kobe, Japan: 2009.  October 26-30.
+\newblock {С.}~153--158.
+\newblock \url{http://ismir2009.ismir.net/proceedings/PS1-17.pdf}.
+
+\bibitem{Reed2009}
+\selectlanguageifdefined{russian}
+Minimum Classification Error Training to Improve Isolated Chord Recognition~/
+  Jeremy~Reed, Yushi~Ueda, Sabato~Siniscalchi {[и~др.]}~// Proceedings of
+  the 10th International Society for Music Information Retrieval Conference.
+\newblock Kobe, Japan: 2009.  October 26-30.
+\newblock {С.}~609--614.
+\newblock \url{http://ismir2009.ismir.net/proceedings/PS4-6.pdf}.
+
+\bibitem{Mauch2010}
+\selectlanguageifdefined{russian}
+Mauch~Matthias, Dixon~Simon. Approximate Note Transcription for the Improved
+  Identification of Difficult Chords~// Proceedings of the 11th International
+  Society for Music Information Retrieval Conference.
+\newblock Utrecht, The Netherlands: 2010.  August 9-13.
+\newblock {С.}~135--140.
+\newblock \url{http://ismir2010.ismir.net/proceedings/ismir2010-25.pdf}.
+
+\bibitem{Khadkevich2011}
+\selectlanguageifdefined{russian}
+Khadkevich~Maksim, Omologo~Maurizio. Time-frequency reassigned features for
+  automatic chord recognition~// Proceedings of the IEEE International
+  Conference on Acoustics, Speech, and Signal Processing, ICASSP 2011, May
+  22-27, 2011, Prague Congress Center, Prague, Czech Republic.
+\newblock IEEE, 2011.
+\newblock {С.}~181--184.
+
+\bibitem{Ni2011}
+\selectlanguageifdefined{russian}
+Harmony Progression Analyzer for MIREX 2011~/ Yizhao~Ni, Matt~Mcvicar,
+  Raul~Santos-Rodriguez {[и~др.]}.
+\newblock 2012.
+
+\bibitem{Humphrey2012}
+\selectlanguageifdefined{russian}
+Humphrey~E.J., Cho~T., Bello~J.P. Learning a robust tonnetz-space transform for
+  automatic chord recognition~// Proceedings of the IEEE International
+  Conference on Acoustics, Speech, and Signal Processing (ICASSP-12).
+\newblock Kyoto, Japan: 2012.  May.
+\newblock {С.}~453--456.
+
+\bibitem{Zhang2008}
+\selectlanguageifdefined{russian}
+Zhang~Xinglin, Gerhard~David. Chord Recognition using Instrument Voicing
+  Constraints~// Proceedings of the 9th International Conference on Music
+  Information Retrieval.
+\newblock Philadelphia, USA: 2008.  September 14-18.
+\newblock {С.}~33--38.
+\newblock \url{http://ismir2008.ismir.net/papers/ISMIR2008_241.pdf}.
+
+\bibitem{Cho2010}
+\selectlanguageifdefined{russian}
+Cho~T., Weiss~R.J., Bello~J.P. Exploring common variations in state of the art
+  chord recognition systems~// Proceedings of the Sound and Music Computing
+  Conference (SMC).
+\newblock Barcelona, Spain: 2010.  July.
+\newblock {С.}~1--8.
+
+\bibitem{Rocher2010}
+\selectlanguageifdefined{russian}
+Concurrent Estimation of Chords and Keys from Audio~/ Thomas~Rocher,
+  Matthias~Robine, Pierre~Hanna {[и~др.]}~// Proceedings of the 11th
+  International Society for Music Information Retrieval Conference.
+\newblock Utrecht, The Netherlands: 2010.  August 9-13.
+\newblock {С.}~141--146.
+\newblock \url{http://ismir2010.ismir.net/proceedings/ismir2010-26.pdf}.
+
+\bibitem{Cho2011}
+\selectlanguageifdefined{russian}
+Cho~Taemin, Bello~Juan~P. A Feature Smoothing Method for Chord Recognition
+  Using Recurrence Plots~// Proceedings of the 12th International Society for
+  Music Information Retrieval Conference.
+\newblock Miami (Florida), USA: 2011.  October 24-28.
+\newblock {С.}~651--656.
+\newblock \url{http://ismir2011.ismir.net/papers/OS8-4.pdf}.
+
+\bibitem{DeHaas2012}
+\selectlanguageifdefined{russian}
+De~Haas~W.~Bas, Magalhães~José~Pedro, Wiering~Frans. Improving Audio Chord
+  Transcription by Exploiting Harmonic and Metric Knowledge~// Proceedings of
+  the 13th International Society for Music Information Retrieval Conference.
+\newblock Porto, Portugal: 2012.  October 8-12.
+\newblock \url{http://ismir2012.ismir.net/event/papers/295-ismir-2012.pdf}.
+
+\bibitem{Yoshioka2004}
+\selectlanguageifdefined{russian}
+Automatic Chord Transcription with Concurrent Recognition of Chord Symbols and
+  Boundaries~/ Takuya~Yoshioka, Tetsuro~Kitahara, Kazunori~Komatani
+  {[и~др.]}~// Proceedings of the 5th International Conference on Music
+  Information Retrieval.
+\newblock Barcelona, Spain: 2004.  October 10-14.
+\newblock
+  \url{http://ismir2004.ismir.net/proceedings/p020-page-100-paper149.pdf}.
+
+\bibitem{Sumi2008}
+\selectlanguageifdefined{russian}
+Automatic Chord Recognition Based on Probabilistic Integration of Chord
+  Transition and Bass Pitch Estimation~/ Kouhei~Sumi, Katsutoshi~Itoyama,
+  Kazuyoshi~Yoshii {[и~др.]}~// Proceedings of the 9th International
+  Conference on Music Information Retrieval.
+\newblock Philadelphia, USA: 2008.  September 14-18.
+\newblock {С.}~39--44.
+\newblock \url{http://ismir2008.ismir.net/papers/ISMIR2008_236.pdf}.
+
+\bibitem{Weller2009}
+\selectlanguageifdefined{russian}
+Weller~Adrian, Ellis~Daniel, Jebara~Tony. Structured Prediction Models for
+  Chord Transcription of Music Audio~// Proceedings of the 2009 International
+  Conference on Machine Learning and Applications.
+\newblock ICMLA '09.
+\newblock Washington, DC, USA: IEEE Computer Society, 2009.
+\newblock {С.}~590--595. URL:  http://dx.doi.org/10.1109/ICMLA.2009.132.
+
+\bibitem{Mcvicar2011}
+\selectlanguageifdefined{russian}
+Leveraging Noisy Online Databases for Use in Chord Recognition~/ Matt~Mcvicar,
+  Yizhao~Ni, Raul~Santos-Rodriguez {[и~др.]}~// Proceedings of the 12th
+  International Society for Music Information Retrieval Conference.
+\newblock Miami (Florida), USA: 2011.  October 24-28.
+\newblock {С.}~639--644.
+\newblock \url{http://ismir2011.ismir.net/papers/OS8-2.pdf}.
+
+\bibitem{Chen2012}
+\selectlanguageifdefined{russian}
+Chord Recognition Using Duration-explicit Hidden Markov Models~/ Ruofeng~Chen,
+  Weibin~Shen, Ajay~Srinivasamurthy {[и~др.]}~// Proceedings of the 13th
+  International Society for Music Information Retrieval Conference.
+\newblock Porto, Portugal: 2012.  October 8-12.
+\newblock \url{http://ismir2012.ismir.net/event/papers/445-ismir-2012.pdf}.
+
+\bibitem{Davies2007}
+\selectlanguageifdefined{russian}
+Davies~Matthew E.~P., Plumbley~Mark~D. Context-Dependent Beat Tracking of
+  Musical Audio~// Trans. Audio, Speech and Lang. Proc.
+\newblock Piscataway, NJ, USA, 2007.  March.
+\newblock Т.~15, {№}~3.
+\newblock {С.}~1009--1020. URL:  http://dx.doi.org/10.1109/TASL.2006.885257.
+
+\bibitem{Dixon2007}
+\selectlanguageifdefined{russian}
+Dixon~Simon. {Evaluation of the Audio Beat Tracking System BeatRoot}~// Journal
+  of New Music Research.
+\newblock 2007.  March.
+\newblock Т.~36, {№}~1.
+\newblock {С.}~39--50. URL:  http://dx.doi.org/10.1080/09298210701653310.
+
+\bibitem{Ellis2007}
+\selectlanguageifdefined{russian}
+Ellis~Daniel P.~W. Beat tracking by dynamic programming~// Journal of New Music
+  Research.
+\newblock 2007.
+\newblock Т. 36(1).
+\newblock {С.}~51--60.
+
+\bibitem{Gomez2006}
+\selectlanguageifdefined{russian}
+G{\'o}mez~E. Tonal Description of Music Audio Signals. Ph.D. thesis:
+  Universitat Pompeu Fabra.
+\newblock 2006. URL:  files/publications/emilia-PhD-2006.pdf.
+
+\bibitem{Jiang2011}
+\selectlanguageifdefined{russian}
+Analyzing Chroma Feature Types for Automated Chord Recognition~/ Nanzhu~Jiang,
+  Peter~Grosche, Verena~Konz {[и~др.]}~// Proceedings of the AES 42nd
+  International Conference: Semantic Audio.
+\newblock Ilmenau, Germany: AES, 2011.
+\newblock {С.}~285--294.
+
+\bibitem{Harte2005}
+\selectlanguageifdefined{russian}
+Harte~C.~A., Sandler~M. {Automatic chord identification using a quantised
+  chromagram}~// Proc. of the 118th Convention. of the AES.
+\newblock 2005.
+
+\bibitem{Zhu2005}
+\selectlanguageifdefined{russian}
+Zhu~Yongwei, Kankanhalli~Mohan~S., Gao~Sheng. Music Key Detection for Musical
+  Audio~// Multi-Media Modeling Conference, International.
+\newblock Los Alamitos, CA, USA, 2005.
+\newblock Т.~0.
+\newblock {С.}~30--37.
+
+\bibitem{Peeters2006}
+\selectlanguageifdefined{russian}
+Peeters~Geoffroy. Musical key estimation of audio signal based on hidden Markov
+  modeling of chroma vectors~// Proc. of the Int. Conf. on Digital Audio
+  Effects (DAFx-06.
+\newblock 2006.
+\newblock {С.}~127--131.
+
+\bibitem{KhadkevichPhase2009}
+\selectlanguageifdefined{russian}
+Khadkevich~Maksim, Omologo~Maurizio. Phase-change based tuning for automatic
+  chord recognition.~// Proceedings of the 12th International Conference on
+  Digital Audio Effects of DAFX.
+\newblock Como, Italy: 2009.  September 1-4.
+
+\bibitem{Ono2008}
+\selectlanguageifdefined{russian}
+Separation of a Monaural Audio Signal into Harmonic/Percussive Components by
+  Complementary Diffusion on Spectrogram~/ Nobutaka~Ono, Ken-Ichi~Miyamoto,
+  Jonathan~{Le Roux} {[и~др.]}~// Proceedings of the EUSIPCO 2008 European
+  Signal Processing Conference.
+\newblock 2008.  August.
+
+\bibitem{Oppenheim2006}
+\selectlanguageifdefined{russian}
+А.~Оппенгейм~Р.~Шафер. Цифровая обработка
+  сигналов~/ {под ред. }О.~Н.~Кулешова.
+\newblock Москва "Техносфера", 2006.
+
+\bibitem{Brown1992}
+\selectlanguageifdefined{russian}
+Brown~Judith, Puckette~Miller~S. An efficient algorithm for the calculation of
+  a constant Q transform~// Journal of the Acoustical Society of America.
+\newblock 1992.  November.
+\newblock Т.~92, {№}~5.
+\newblock {С.}~2698--2701.
+
+\bibitem{Rabiner1978}
+\selectlanguageifdefined{russian}
+Л.~Рабинер~Б.~Гоулд. Теория и применение
+  цифровой обработки сигналов~/ {под ред.
+  }Л.~Якименко.
+\newblock Москва "МИР", 1978.
+
+\bibitem{Fletcher1933}
+\selectlanguageifdefined{russian}
+Fletcher~Harvey, Munson~W.~A. Loudness, Its Definition, Measurement and
+  Calculation~// The Journal of the Acoustical Society of America.
+\newblock 1933.  October.
+\newblock Т.~5, {№}~2.
+\newblock {С.}~82--108.
+
+\bibitem{Mueller2009}
+\selectlanguageifdefined{russian}
+Müller~Meinard, Ewert~Sebastian, Kreuzer~Sebastian. Making chroma features
+  more robust to timbre changes~// Proceedings of the 2009 IEEE International
+  Conference on Acoustics, Speech and Signal Processing.
+\newblock ICASSP '09.
+\newblock Washington, DC, USA: IEEE Computer Society, 2009.
+\newblock {С.}~1877--1880. URL:
+  http://dx.doi.org/10.1109/ICASSP.2009.4959974.
+
+\bibitem{Logan2000}
+\selectlanguageifdefined{russian}
+Logan~Beth. Mel Frequency Cepstral Coefficients for Music Modeling~//
+  Proceedings of the 1st International Conference on Music Information
+  Retrieval.
+\newblock Plymouth (Massachusetts), USA: 2000.  October 23.
+\newblock \url{http://ismir2000.ismir.net/papers/logan_paper.pdf}.
+
+\bibitem{TalbotSmith1999}
+\selectlanguageifdefined{russian}
+Talbot-Smith~Michael. Audio Engineer's Reference Book.
+\newblock Taylor \& Francis, 1999. URL:
+  http://books.google.ru/books?id=LcySXZbdamEC.
+
+\bibitem{Mueller2007}
+\selectlanguageifdefined{russian}
+Müller~Meinard. Information retrieval for music and motion.
+\newblock Springer-Verlag Berlin Heidelberg, 2007.
+
+\bibitem{Harte2006}
+\selectlanguageifdefined{russian}
+Harte~Christopher, Sandler~Mark, Gasser~Martin. Detecting harmonic change in
+  musical audio~// Proceedings of the 1st ACM workshop on Audio and music
+  computing multimedia.
+\newblock AMCMM '06.
+\newblock New York, NY, USA: ACM, 2006.
+\newblock {С.}~21--26. URL:  http://doi.acm.org/10.1145/1178723.1178727.
+
+\bibitem{Cohn1998}
+\selectlanguageifdefined{English}
+{vv~}{ll}{~jj}{~ff}Introduction to Neo-Riemannian Theory: A Survey and a
+  Historical Perspective~// Journal of Music Theory.
+\newblock 1998.
+\newblock Vol.~42, no.~2.
+\newblock P.~pp. 167--180. URL:  http://www.jstor.org/stable/843871.
+
+\bibitem{Chew2000}
+\selectlanguageifdefined{russian}
+Chew~Elaine. {Towards a Mathematical Model of Tonality}. Ph.D. thesis:
+  Massachusetts Institute of Technology.
+\newblock 2000.  Feb. URL:
+  http://www-bcf.usc.edu/\~{}echew/papers/Dissertation2000/ec-dissertation.pdf.
+
+\bibitem{Lee2008}
+\selectlanguageifdefined{russian}
+Lee~Kyogu. A System for Automatic Chord Transcription from Audio Using
+  Genre-Specific Hidden Markov Models~// Adaptive Multimedial Retrieval:
+  Retrieval, User, and Semantics~/ {под ред. }Nozha~Boujemaa,
+  Marcin~Detyniecki, Andreas~NГјrnberger.
+\newblock Springer Berlin Heidelberg, 2008.
+\newblock Т.~4918 {из} \BibEmph{Lecture Notes in Computer Science}.
+\newblock {С.}~134--146.
+
+\bibitem{LeCun1998}
+\selectlanguageifdefined{russian}
+Gradient-based learning applied to document recognition~/ Y.~LeCun, L.~Bottou,
+  Y.~Bengio {[и~др.]}~// Proceedings of the IEEE.
+\newblock Nov.
+\newblock Т.~86, {№}~11.
+\newblock {С.}~2278--2324.
+
+\bibitem{Ni2012}
+\selectlanguageifdefined{russian}
+Using Hyper-genre Training to Explore Genre Information for Automatic Chord
+  Estimation~/ Yizhao~Ni, Matt~Mcvicar, Raul~Santos-Rodriguez {[и~др.]}~//
+  Proceedings of the 13th International Society for Music Information Retrieval
+  Conference.
+\newblock Porto, Portugal: 2012.  October 8-12.
+\newblock \url{http://ismir2012.ismir.net/event/papers/109-ismir-2012.pdf}.
+
+\bibitem{Rabiner1989}
+\selectlanguageifdefined{russian}
+И.~Рабинер. Скрытые марковские модели и их
+  применение в избранных приложениях при
+  распознавании речи: Обзор~// ТИИЭР.
+\newblock 1989.
+\newblock Т.~77, {№}~2.
+
+\bibitem{Lafferty2001}
+\selectlanguageifdefined{russian}
+Lafferty~John~D., McCallum~Andrew, Pereira~Fernando C.~N. Conditional Random
+  Fields: Probabilistic Models for Segmenting and Labeling Sequence Data~//
+  Proceedings of the Eighteenth International Conference on Machine Learning.
+\newblock ICML '01.
+\newblock San Francisco, CA, USA: Morgan Kaufmann Publishers Inc., 2001.
+\newblock {С.}~282--289. URL:
+  http://dl.acm.org/citation.cfm?id=645530.655813.
+
+\bibitem{Ghahramani2001}
+\selectlanguageifdefined{russian}
+Ghahramani~Zoubin. An Introduction to Hidden Markov Models and Bayesian
+  Networks~// IJPRAI.
+\newblock 2001.
+\newblock Т.~15, {№}~1.
+\newblock {С.}~9--42.
+
+\bibitem{Temperley2001}
+\selectlanguageifdefined{russian}
+Temperley~D. The cognition of basic musical structures.
+\newblock Mit Press, 2001.
+
+\bibitem{Lerdahl2001}
+\selectlanguageifdefined{russian}
+Lerdahl~F. Tonal Pitch Space.
+\newblock Oxford University Press, USA, 2001.
+
+\bibitem{Hrybyk2010}
+\selectlanguageifdefined{russian}
+Hrybyk~Alex, Kim~Youngmoo~E. Combined Audio and Video Analysis for Guitar Chord
+  Identification~// Proceedings of the 11th International Society for Music
+  Information Retrieval Conference.
+\newblock Utrecht, The Netherlands: 2010.  August 9-13.
+\newblock {С.}~159--164.
+\newblock \url{http://ismir2010.ismir.net/proceedings/ismir2010-29.pdf}.
+
+\end{thebibliography}

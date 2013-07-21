@@ -51,6 +51,22 @@ Aono~Y., Katayose~H., Inokuchi~S. {A Real-time Session Composer with Acoustic
 \newblock 1998.
 \newblock {С.}~236--239.
 
+\bibitem{Humphrey2012}
+\selectlanguageifdefined{russian}
+Humphrey~E.J., Cho~T., Bello~J.P. Learning a robust tonnetz-space transform for
+  automatic chord recognition~// Proceedings of the IEEE International
+  Conference on Acoustics, Speech, and Signal Processing (ICASSP-12).
+\newblock Kyoto, Japan: 2012.  May.
+\newblock {С.}~453--456.
+
+\bibitem{DeHaas2012}
+\selectlanguageifdefined{russian}
+De~Haas~W.~Bas, Magalhães~José~Pedro, Wiering~Frans. Improving Audio Chord
+  Transcription by Exploiting Harmonic and Metric Knowledge~// Proceedings of
+  the 13th International Society for Music Information Retrieval Conference.
+\newblock Porto, Portugal: 2012.  October 8-12.
+\newblock \url{http://ismir2012.ismir.net/event/papers/295-ismir-2012.pdf}.
+
 \bibitem{bib1}
 \selectlanguageifdefined{russian}
 Название статьи~/ ~Автор1, ~Автор2, ~Автор3
@@ -216,14 +232,6 @@ Harmony Progression Analyzer for MIREX 2011~/ Yizhao~Ni, Matt~Mcvicar,
   Raul~Santos-Rodriguez {[и~др.]}.
 \newblock 2012.
 
-\bibitem{Humphrey2012}
-\selectlanguageifdefined{russian}
-Humphrey~E.J., Cho~T., Bello~J.P. Learning a robust tonnetz-space transform for
-  automatic chord recognition~// Proceedings of the IEEE International
-  Conference on Acoustics, Speech, and Signal Processing (ICASSP-12).
-\newblock Kyoto, Japan: 2012.  May.
-\newblock {С.}~453--456.
-
 \bibitem{Zhang2008}
 \selectlanguageifdefined{russian}
 Zhang~Xinglin, Gerhard~David. Chord Recognition using Instrument Voicing
@@ -258,14 +266,6 @@ Cho~Taemin, Bello~Juan~P. A Feature Smoothing Method for Chord Recognition
 \newblock Miami (Florida), USA: 2011.  October 24-28.
 \newblock {С.}~651--656.
 \newblock \url{http://ismir2011.ismir.net/papers/OS8-4.pdf}.
-
-\bibitem{DeHaas2012}
-\selectlanguageifdefined{russian}
-De~Haas~W.~Bas, Magalhães~José~Pedro, Wiering~Frans. Improving Audio Chord
-  Transcription by Exploiting Harmonic and Metric Knowledge~// Proceedings of
-  the 13th International Society for Music Information Retrieval Conference.
-\newblock Porto, Portugal: 2012.  October 8-12.
-\newblock \url{http://ismir2012.ismir.net/event/papers/295-ismir-2012.pdf}.
 
 \bibitem{Yoshioka2004}
 \selectlanguageifdefined{russian}
